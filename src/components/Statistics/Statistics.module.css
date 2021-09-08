@@ -1,0 +1,15 @@
+.statistics {
+  width: 700px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+  padding-top: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0.4em 0.4em 5px rgba(122, 122, 122, 0.5);
+  text-align: center;
+}
+
+.title {
+  margin-top: 0;
+}

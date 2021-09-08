@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://lh4.googleusercontent.com/-C0l0V-lGB0M/AAAAAAAAAAI/AAAAAAAAAAA/5LZzzrNN_v4/photo.jpg",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://uprostim.com/wp-content/uploads/2021/03/image096-74.jpg",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://yt3.ggpht.com/a/AATXAJxRiRyPt4w6P9-pNp39M6b-QzXMXwyLv1Lc=s900-c-k-c0xffffffff-no-rj-mo",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://yt3.ggpht.com/a/AATXAJxN-eqwP9natLZa0uwgEe8QeWJ0HVd7z0eVfXo0DTU=s900-c-k-c0x00ffffff-no-rj",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://pixelbox.ru/wp-content/uploads/2021/02/mult-ava-instagram-2.jpg",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]

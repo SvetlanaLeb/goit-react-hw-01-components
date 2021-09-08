@@ -1,0 +1,19 @@
+.transactionHistory {
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+  padding: 20px 20px 20px 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0.4em 0.4em 5px rgba(122, 122, 122, 0.5);
+  text-align: center;
+}
+
+.transactionTHead {
+  background-color: cornflowerblue;
+  height: 50px;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+}

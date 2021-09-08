@@ -1,0 +1,9 @@
+.transactionTR {
+  height: 40px;
+  font-size: 18px;
+  color: dimgrey;
+}
+
+.transactionTD {
+  font-weight: 700;
+}
